@@ -24,8 +24,8 @@
 
 ### 📚 Education:
 
-✅ **Etec - Informática para Internet, 2024**<br>
-🎓 **Currently studying:** Fatec - Desenvolvimento de Softwares Multiplataforma
+✅ **ETEC - Informática para Internet, 2024**<br>
+🎓 **Currently studying:** FATEC - Desenvolvimento de Softwares Multiplataforma
 
 </div>
 
