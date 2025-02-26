@@ -28,8 +28,6 @@
 
 <hr style="border: 1px solid #444; width: 100%;">
 
-</div>
-
 ### 📬 Contact:
 
 <a href="https://www.linkedin.com/in/murilo-nunes-pimentel-831465292/" target="_blank">
