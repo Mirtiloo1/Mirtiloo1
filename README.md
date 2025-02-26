@@ -19,6 +19,10 @@
 
 </div>
 
+📚 Education:
+
+✅ Etec - Informática para Internet, 2024
+🎓 Currently studying: Fatec - Desenvolvimento de Softwares Multiplataforma
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirtiloo1&show_icons=true&theme=gruvbox" alt="GitHub Stats" hspace="10"/>
