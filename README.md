@@ -26,7 +26,9 @@
 ✅ **Etec - Informática para Internet, 2024**<br>
 🎓 **Currently studying:** Fatec - Desenvolvimento de Softwares Multiplataforma
 
-<hr style="border: 1px solid #444; width: 100%;">
+</div>
+
+<div style="font-size: 1.5rem; margin-top: 20px;">
 
 ### 📬 Contact:
 
