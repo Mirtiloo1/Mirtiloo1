@@ -44,5 +44,5 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirtiloo1&show_icons=true&theme=tokyonight" alt="GitHub Stats" hspace="10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtiloo1&layout=compact&theme=tokyonight" alt="Top Languages" hspace="10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtiloo1&layout=compact&theme=tokyonight" alt="Top Languages" hspace="10"/>
 </div>
