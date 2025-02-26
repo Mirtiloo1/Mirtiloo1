@@ -30,8 +30,6 @@
 
 </div>
 
-<div style="font-size: 1.5rem; margin-top: 20px;">
-
 ### 📬 Contact:
 
 <a href="https://www.linkedin.com/in/murilo-nunes-pimentel-831465292/" target="_blank">
