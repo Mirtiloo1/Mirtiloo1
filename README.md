@@ -1,133 +1,81 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=Murilo%20Nunes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18"/>
+  <h1>Hey, I'm Murilo! 👋</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Murilo+%F0%9F%91%8B;Software+Development+Student;Always+learning+new+technologies;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=500&lines=Software+Development+Student;Full+Stack+Development;Learning%2C+building+and+evolving." alt="Typing SVG"/>
+  </a>
+
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/murilo-nunes-pimentel-831465292/">
+    <img src="https://img.shields.io/badge/LinkedIn-70A5FD?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:murilonunes2101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-70A5FD?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Mirtiloo1">
+    <img src="https://img.shields.io/badge/GitHub-70A5FD?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
-
----
-
-### 👨‍💻 About Me
-
-```javascript
-const murilo = {
-    education: "FATEC - Software Development",
-    background: "ETEC - Internet Computing",
-    interests: ["Web Development", "Mobile", "Backend"],
-    currentlyLearning: ["React", "Node.js", "Docker"],
-    motto: "Always learning, always building."
-};
-```
-
-I'm a software development student passionate about technology, problem-solving and creating solutions through code.
-
-- 🎓 Studying **Multiplatform Software Development at FATEC**
-- ✅ Graduated in **Internet Computing at ETEC (2024)**
-- 💻 Interested in **Full Stack Development**
-- 🚀 Always exploring new technologies and improving my skills
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**🎨 Front-end**
-
-<img src="https://skillicons.dev/icons?i=js,react,css,figma&theme=dark" alt="Frontend technologies"/>
-
-<br><br>
-
-**⚙️ Back-end & Languages**
-
-<img src="https://skillicons.dev/icons?i=java,cpp,php,nodejs&theme=dark" alt="Backend technologies"/>
-
-<br><br>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/>
-
-<br><br>
-
-**🔧 Tools & Mobile**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,react&theme=dark" alt="Development tools and React Native"/>
 
 <br>
-<sub>React icon also represents React Native.</sub>
 
-</div>
+## About me
 
----
+I'm a Software Development student who enjoys exploring new technologies, solving problems and building applications.
 
-### 📊 GitHub Analytics
+- 🎓 **FATEC** — Multiplatform Software Development
+- 📚 **ETEC** — Internet Computing (2024)
+- 💻 Interested in Web, Mobile and Back-end Development
+- 🌱 Constantly learning and improving my skills
 
-<div align="center">
+<br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mirtiloo1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtiloo1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mirtiloo1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
-### 🎓 Education
-
-<table>
-<tr>
-<td>🎓</td>
-<td>
-<strong>FATEC</strong><br>
-Multiplatform Software Development<br>
-<em>Currently studying</em>
-</td>
-</tr>
-<tr>
-<td>✅</td>
-<td>
-<strong>ETEC</strong><br>
-Internet Computing<br>
-<em>Completed in 2024</em>
-</td>
-</tr>
-</table>
-
----
-
-### 📫 Let's Connect!
+## Technologies & Tools
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/murilo-nunes-pimentel-831465292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,java,cpp,php&theme=dark&perline=6" alt="Programming languages and frameworks"/>
 
-<a href="mailto:murilonunes2101@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <br><br>
 
-<a href="https://github.com/Mirtiloo1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mirtiloo1&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<br><br>
-
-<i>"First, solve the problem. Then, write the code."</i>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,figma,git,css&theme=dark&perline=6" alt="Databases and tools"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=120&section=footer"/>
+<br>
+
+## GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirtiloo1&show_icons=true&theme=github_dark&hide_border=true&title_color=70A5FD&icon_color=70A5FD" alt="GitHub Statistics"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtiloo1&layout=compact&theme=github_dark&hide_border=true&title_color=70A5FD" alt="Most Used Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirtiloo1&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=true" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Mirtiloo1&style=flat-square&color=70A5FD&label=Profile+Views" alt="Profile Views"/>
+
+  <br><br>
+
+  <sub>Thanks for visiting my profile!</sub>
+
+</div>
