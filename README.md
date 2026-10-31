@@ -28,9 +28,7 @@
 ---
 
 I'm a Software Development student focused on building practical solutions and continuously improving my technical skills.
-
 My interests include web applications, mobile development, backend architecture and modern technologies.
-
 Currently pursuing a degree in **Multiplatform Software Development at FATEC**, with a technical background in **Internet Computing from ETEC**.
 
 <br>
@@ -45,20 +43,20 @@ Currently pursuing a degree in **Multiplatform Software Development at FATEC**, 
 
   <img src="https://skillicons.dev/icons?i=javascript,java,cpp,php,react,nodejs&theme=dark" alt="Languages and Frameworks"/>
 
-  <br><br>
+  <br>
 
   <p><strong>DATABASES & INFRASTRUCTURE</strong></p>
 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark" alt="Databases and Infrastructure"/>
 
-  <br><br>
+  <br>
 
   <p><strong>DESIGN & DEVELOPMENT TOOLS</strong></p>
 
   <img src="https://skillicons.dev/icons?i=figma,css,git,github&theme=dark" alt="Tools"/>
 
-  <br><br>
-
+  <br>
+  
   <img src="https://img.shields.io/badge/MOBILE-React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
 
 </div>
@@ -75,7 +73,7 @@ Currently pursuing a degree in **Multiplatform Software Development at FATEC**, 
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirtiloo1&layout=compact&theme=transparent&hide_border=true&title_color=70A5FD&text_color=8B949E" alt="Top Languages"/>
 
-  <br><br>
+  <br>
 
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mirtiloo1&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph"/>
 
@@ -129,7 +127,7 @@ Currently pursuing a degree in **Multiplatform Software Development at FATEC**, 
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=70A5FD" alt="Email"/>
   </a>
 
-  <br><br>
+  <br>
 
   <img src="https://komarev.com/ghpvc/?username=Mirtiloo1&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile Views"/>
 
